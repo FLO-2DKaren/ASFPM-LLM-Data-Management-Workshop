@@ -1,0 +1,122 @@
+
+     TIMESTEPS WERE DECREASED FOR THE FOLLOWING NODES:
+
+ (IF CFL STABILITY CRITERIA = 0, SEE EVACUATEDxx.OUT FILES FOR EVACUATED VOLUME ELEMENT TIMESTEP DECREMENTS)
+
+  GRID ELEMENT          CFL STABILITY CRITERIA
+
+   FLOODPLAIN NODES    NUMBER OF TIMES EXCEEDED
+
+
+
+   CHANNEL NODES
+
+         33446                  1022
+         51657                   118
+         33233                    56
+         51877                     1
+
+
+  THE LAST ONE HUNDRED TIMESTEP DECREASES WHERE 1 IS THE MOST RECENT TIMESTEP DECREASE
+          TIMESTEP          NODE
+
+               1             33446  CH
+               2             33446  CH
+               3             33446  CH
+               4             33446  CH
+               5             33446  CH
+               6             33446  CH
+               7             33446  CH
+               8             33446  CH
+               9             33446  CH
+              10             33446  CH
+              11             33446  CH
+              12             33446  CH
+              13             33446  CH
+              14             33446  CH
+              15             33446  CH
+              16             33446  CH
+              17             33446  CH
+              18             33446  CH
+              19             33446  CH
+              20             33446  CH
+              21             33446  CH
+              22             33446  CH
+              23             33446  CH
+              24             33446  CH
+              25             33446  CH
+              26             33446  CH
+              27             33446  CH
+              28             33446  CH
+              29             33446  CH
+              30             33446  CH
+              31             33446  CH
+              32             33446  CH
+              33             33446  CH
+              34             33446  CH
+              35             33446  CH
+              36             33446  CH
+              37             33446  CH
+              38             33446  CH
+              39             33446  CH
+              40             33446  CH
+              41             33446  CH
+              42             33446  CH
+              43             33446  CH
+              44             33446  CH
+              45             33446  CH
+              46             33446  CH
+              47             33446  CH
+              48             33446  CH
+              49             33446  CH
+              50             33446  CH
+              51             33446  CH
+              52             33446  CH
+              53             33446  CH
+              54             33446  CH
+              55             33446  CH
+              56             33446  CH
+              57             33446  CH
+              58             33446  CH
+              59             33446  CH
+              60             33446  CH
+              61             33446  CH
+              62             33446  CH
+              63             33446  CH
+              64             33446  CH
+              65             33446  CH
+              66             33446  CH
+              67             33446  CH
+              68             33446  CH
+              69             33446  CH
+              70             33446  CH
+              71             33446  CH
+              72             33446  CH
+              73             33446  CH
+              74             33446  CH
+              75             33446  CH
+              76             33446  CH
+              77             33446  CH
+              78             33446  CH
+              79             33446  CH
+              80             33446  CH
+              81             33446  CH
+              82             33446  CH
+              83             33446  CH
+              84             33446  CH
+              85             33446  CH
+              86             33446  CH
+              87             33446  CH
+              88             33446  CH
+              89             33446  CH
+              90             33446  CH
+              91             33446  CH
+              92             33446  CH
+              93             33446  CH
+              94             33446  CH
+              95             33446  CH
+              96             33446  CH
+              97             33446  CH
+              98             33446  CH
+              99             33446  CH
+             100             33446  CH

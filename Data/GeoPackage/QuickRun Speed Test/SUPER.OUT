@@ -1,0 +1,61 @@
+
+
+  TOP 1000 SUPERCRITICAL OVERLAND FLOW ELEMENTS IN DESCENDING ORDER OF FROUDE NUMBER
+          *** NOTE: THIS LIST MAY NOT EXACTLY CORRELATE WITH THE ROUGH.OUT FILE ***
+                    TO REDUCE THE FROUDE NO: INCREASE FLOODPLAIN n-VALUES OR SHALLOWN FOR LOW FLOWS
+
+       NODE    MAX FROUDE NO     DEPTH (FT OR M)     TIME (HR)     NUMBER OF SUPERCRITICAL TIMESTEPS
+
+      23739         1.30              1.03             4.728                      6
+      23738         1.30              1.05             4.725                      7
+      23736         1.28              1.15             4.720                      8
+      23740         1.28              1.01             4.731                      6
+      23737         1.27              1.13             4.723                      7
+      23735         1.27              1.25             4.717                      9
+      30759         1.24              0.41             4.087                     12
+      23741         1.20              1.02             4.734                      6
+      23742         1.15              0.98             4.736                      7
+      39666         1.07              0.50             3.994                     59     LEVEE - POSSIBLE OVERFLOW
+      39667         1.07              0.50             4.002                     43     LEVEE - POSSIBLE OVERFLOW
+      34942         1.06              0.33             0.225                      7
+      23743         1.06              0.94             4.739                      7
+       8930         1.03              0.50             4.121                      4
+
+
+  TOP 1000 SUPERCRITICAL FLOW IN CHANNEL ELEMENTS IN DESCENDING ORDER OF FROUDE NUMBER
+          *** NOTE: THIS LIST MAY NOT CORRELATE WITH ROUGH.OUT. n-VALUES REPORTED IN ROUGH.OUT ARE REVISED ONLY FOR DEPTHS > 2 FT (0.67 M) ***
+                    TO REDUCE THE FROUDE NO: INCREASE CHANNEL n-VALUES OR ROUGHADJ FOR DEPTH INTEGRATED n-VALUES FOR LOW FLOWS
+
+       NODE    MAX FROUDE NO     DEPTH (FT OR M)     TIME (HR)     NUMBER OF SUPERCRITICAL TIMESTEPS
+
+      35586         1.25              0.51             0.198                     41
+      33233         1.17              0.63             0.220                     11
+       1318         1.16              0.88             0.645                      9     HYDRAULIC STRUCTURE
+       1485         1.14              1.97             4.179                  39607
+       1819         1.14              2.77             4.251                  35837
+       1652         1.13              2.36             4.356                  31603
+      45747         1.09              0.91             0.104                      5
+       1151         1.09              0.88             0.647                      6
+      42488         1.07              0.84             0.132                      3
+      42054         1.07              0.93             0.136                      4
+       7071         1.06              0.78             0.568                      4
+      45965         1.06              0.87             0.102                      6
+        985         1.05              0.89             0.648                      5
+      41621         1.05              0.90             0.140                      4
+      44875         1.04              0.91             0.111                      4
+      42271         1.04              0.97             0.134                      3
+      27820         1.04              0.85             0.284                      4
+      32596         1.03              0.84             0.227                      5
+      30913         1.03              0.72             0.245                      5
+      46183         1.03              0.97             0.100                      4
+      41837         1.03              0.94             0.138                      2
+      43573         1.02              0.95             0.123                      3
+      45529         1.02              0.96             0.105                      3
+       1986         1.02              3.20             4.257                   7433
+      45093         1.02              0.95             0.109                      3
+       8285         1.02              0.77             0.553                      3
+        819         1.01              0.84             0.650                      2
+      29048         1.01              0.79             0.269                      3
+      45311         1.01              0.96             0.107                      1
+      10219         1.00              0.84             0.531                      2
+      44658         1.00              0.92             0.113                      1

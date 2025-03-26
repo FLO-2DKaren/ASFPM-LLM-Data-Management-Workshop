@@ -1,0 +1,270 @@
+                    NEGATIVE VOLUME CONSERVATION (ACRE FEET)
+              INDICATES EXCESS VOLUME (OUTFLOW + STORAGE > INFLOW)
+                         THIS IS A WATER SIMULATION
+
+
+  SIMULATION TIME     AVERAGE TIMESTEP             VOLUME CONSERVATION
+     (HOURS)              (SECONDS)           (ACRE FEET)   PERCENT OF INFLOW
+
+                                SUMMARY.OUT FILE
+                        Pro Model - Build No. 23.10.25
+
+     0.0003                 1.000              -0.000000        0.000000
+     0.1001                 1.119               0.000000        0.000000
+     0.2001                 1.105               0.000000        0.000000
+     0.3001                 1.074               0.000000        0.000000
+     0.4000                 0.930               0.000000        0.000000
+     0.5000                 0.923               0.000000        0.000000
+     0.6001                 0.938               0.000000        0.000000
+     0.7001                 0.928              -0.000000        0.000000
+     0.8001                 0.918              -0.000000        0.000000
+     0.9002                 0.910              -0.000000        0.000000
+     1.0001                 0.902              -0.000000        0.000000
+     1.1001                 0.894              -0.000000        0.000000
+     1.2001                 0.886               0.000000        0.000000
+     1.3002                 0.879              -0.000000        0.000000
+     1.4002                 0.872              -0.000000        0.000000
+     1.5002                 0.865               0.000000        0.000000
+     1.6001                 0.858               0.000000        0.000000
+     1.7002                 0.852              -0.000000        0.000000
+     1.8002                 0.846              -0.000000        0.000000
+     1.9001                 0.841              -0.000000        0.000000
+     2.0001                 0.835              -0.000000        0.000000
+     2.1002                 0.830              -0.000000        0.000000
+     2.2002                 0.827              -0.000000        0.000000
+     2.3001                 0.827              -0.000000        0.000000
+     2.4000                 0.827              -0.000000        0.000000
+     2.5002                 0.827               0.000000        0.000000
+     2.6000                 0.827               0.000000        0.000000
+     2.7001                 0.822               0.000000        0.000000
+     2.8002                 0.823               0.000000        0.000000
+     2.9001                 0.821               0.000000        0.000000
+     3.0001                 0.820               0.000000        0.000000
+     3.1002                 0.817               0.000000        0.000000
+     3.2002                 0.816               0.000000        0.000000
+     3.3001                 0.810               0.000000        0.000000
+     3.4000                 0.814               0.000000        0.000000
+     3.5002                 0.814               0.000000        0.000000
+     3.6001                 0.813               0.000000        0.000000
+     3.7001                 0.812               0.000000        0.000000
+     3.8000                 0.810               0.000000        0.000000
+     3.9001                 0.804               0.000000        0.000000
+     4.0002                 0.799               0.000000        0.000000
+     4.1001                 0.770               0.000000        0.000000
+     4.2002                 0.706              -0.000000        0.000000
+     4.3001                 0.756               0.000000        0.000000
+     4.4001                 0.796               0.000000        0.000000
+     4.5001                 0.802               0.000000        0.000000
+     4.6002                 0.801               0.000000        0.000000
+     4.7002                 0.798               0.000000        0.000000
+     4.8002                 0.796               0.000000        0.000000
+     4.9002                 0.796               0.000000        0.000000
+     5.0002                 0.796               0.000000        0.000000
+     5.1000                 0.797               0.000000        0.000000
+     5.2002                 0.798               0.000000        0.000000
+     5.3001                 0.798               0.000000        0.000000
+     5.4001                 0.798               0.000000        0.000000
+     5.5002                 0.799               0.000000        0.000000
+     5.6001                 0.799               0.000000        0.000000
+     5.7002                 0.799               0.000000        0.000000
+     5.8002                 0.800               0.000000        0.000000
+     5.9000                 0.801               0.000000        0.000000
+     6.0001                 0.801               0.000000        0.000000
+     6.1000                 0.801               0.000000        0.000000
+     6.2002                 0.802               0.000000        0.000000
+     6.3000                 0.802               0.000000        0.000000
+     6.4002                 0.802               0.000000        0.000000
+     6.5002                 0.802               0.000000        0.000000
+     6.6001                 0.802               0.000000        0.000000
+     6.7002                 0.803               0.000000        0.000000
+     6.8001                 0.803               0.000000        0.000000
+     6.9000                 0.803               0.000000        0.000000
+     7.0000                 0.803               0.000000        0.000000
+     7.1002                 0.803               0.000000        0.000000
+     7.2001                 0.804               0.000000        0.000000
+     7.3001                 0.804               0.000000        0.000000
+     7.4002                 0.804               0.000000        0.000000
+     7.5000                 0.804               0.000000        0.000000
+     7.6002                 0.805               0.000000        0.000000
+     7.7001                 0.805               0.000000        0.000000
+     7.8000                 0.805               0.000000        0.000000
+     7.9001                 0.805               0.000000        0.000000
+     8.0001                 0.805               0.000000        0.000000
+     8.1001                 0.806               0.000000        0.000000
+     8.2002                 0.806               0.000000        0.000000
+     8.3000                 0.806               0.000000        0.000000
+     8.4001                 0.806               0.000000        0.000000
+     8.5000                 0.807               0.000000        0.000000
+     8.6002                 0.806               0.000000        0.000000
+     8.7001                 0.807               0.000000        0.000000
+     8.8001                 0.807               0.000000        0.000000
+     8.9001                 0.807               0.000000        0.000000
+     9.0001                 0.807               0.000000        0.000000
+     9.1001                 0.807               0.000000        0.000000
+     9.2002                 0.808               0.000000        0.000000
+     9.3000                 0.808               0.000000        0.000000
+     9.4001                 0.808               0.000000        0.000000
+     9.5002                 0.808               0.000000        0.000000
+     9.6001                 0.808               0.000000        0.000000
+     9.7001                 0.809               0.000000        0.000000
+     9.8000                 0.809               0.000000        0.000000
+     9.9000                 0.809               0.000000        0.000000
+    10.0000                 0.809               0.000000        0.000000
+==================================================================================================================================
+                     MASS BALANCE   INFLOW - OUTFLOW VOLUME
+==================================================================================================================================
+                           *** INFLOW (ACRE-FEET) ***
+
+TOTAL POINT RAINFALL:                                         3.7400 INCHES
+
+
+                                                                  WATER
+
+RAINFALL VOLUME                                                  348.501
+
+SURFACE WATER INFLOW HYDROGRAPH                                  917.227
+                                                               ---------
+INFLOW HYDROGRAPHS + RAINFALL                                   1265.728
+
+==================================================================================================================================
+                           *** SURFACE OUTFLOW (ACRE-FT) ***
+
+
+OVERLAND INFILTRATED AND INTERCEPTED WATER                    1.083 INCHES
+
+
+
+          OVERLAND FLOW                                            WATER
+
+
+WATER LOST TO INFILTRATION & INTERCEPTION                         93.704
+
+FLOODPLAIN STORAGE                                               152.279
+
+FLOODPLAIN OUTFLOW HYDROGRAPH                                     32.259
+                                                               ---------
+
+FLOODPLAIN OUTFLOW, INFILTRATION & STORAGE                       278.242
+
+
+
+          CHANNEL FLOW
+
+
+CHANNEL STORAGE                                                   38.880
+
+CHANNEL OUTFLOW                                                  940.625
+                                                               ---------
+
+CHANNEL OUTFLOW AND STORAGE                                      979.506
+
+
+TOL FLOODPLAIN STORAGE                                             3.846
+
+TOTAL SURFACE OUTFLOW AND STORAGE                               1257.748
+
+
+==================================================================================================================================
+          *** FLO-2D STORM DRAIN EXCHANGE VOLUME (ACRE-FT) ***
+
+    Storm Drain Inflow
+
+SURFACE TO STORM DRAIN SYSTEM THROUGH INLETS                     152.064
+
+SURFACE TO STORM DRAIN THROUGH OUTFALLS                            5.555
+
+DIRECT INFLOW RECEIVED AT INLETS                                   0.000
+                                                               ---------
+
+TOTAL INFLOW (compare w/SWMM.rpt Wet Weather Inflow)             157.619
+
+
+    Storm Drain Outflow from Outfalls
+
+STORM DRAIN TO SURFACE THROUGH OUTFALLS                          149.527
+
+STORM DRAIN OUTFALL (OFF SYSTEM)                                   3.697
+                                                               ---------
+
+TOTAL OUTFLOW (compare w/SWMM.rpt External Outflow)              153.224
+
+
+    Storm Drain Return Flow to Surface
+
+STORM DRAIN RETURN FLOW TO SURFACE THROUGH INLETS                  3.052
+                                                               ---------
+
+TOTAL STORM DRAIN RETURN FLOW + OUTFLOW                          156.276
+
+
+STORM DRAIN SYSTEM STORAGE (FROM swmm.rpt)                        11.280
+                                                               ---------
+
+STORM DRAIN RETURN FLOW + OUTFLOW + STORAGE                      167.557
+
+
+
+STORM DRAIN MASS BALANCE (INFLOW - OUTFLOW + STORAGE)             -9.938
+
+
+
+    Extracted from Storm Drain File (swmm.rpt)
+
+WET WEATHER INFLOW                                               152.062
+
+EXTERNAL INFLOW                                                    5.791
+
+EXTERNAL OUTFLOW                                                 153.224
+
+Return Flow to Surface                                             3.052
+
+Total Storm Drain Storage (nodes+links)                           11.280
+
+Continuity Error (%)                                              -6.147
+
+
+==================================================================================================================================
+                                 *** TOTALS ***
+
+
+
+TOTAL OUTFLOW FROM GRID SYSTEM                                   972.884
+
+
+TOTAL VOLUME OF OUTFLOW AND STORAGE                             1265.732
+
+
+  SURFACE AREA OF INUNDATION REGARDLESS OF THE TIME OF OCCURRENCE: 
+  (FOR FLOW DEPTHS GREATER THAN THE "TOL" VALUE TYPICALLY 0.1 FT OR 0.03 M)
+
+THE MAXIMUM INUNDATED AREA IS:                               896.723 ACRES
+
+THE MAXIMUM INUNDATED AREA (DEPTH > 0.5 FT) IS:              196.924 ACRES
+
+THE MAXIMUM WETTED FLOODPLAIN AREA IS:                       888.411 ACRES
+
+THE MAXIMUM WETTED CHANNEL AREA IS:                            8.312 ACRES
+
+==================================================================================================================================
+
+  GRID ELEMENT SIZE:   30.0 FT
+  TOTAL NUMBER OF GRID ELEMENTS:      54306
+  GRID SYSTEM AREA:         1122.02 ACRES            1.7526 SQ. MI.
+
+  TOTAL FLOODPLAIN AND CHANNEL LOOP COMPUTATIONS:           4078504877.
+
+
+     COMPUTER RUN TIME:        0.191406 HRS
+     OVERLAND LOOP RUN TIME:   0.064184 HRS
+
+     THIS OUTPUT FILE WAS TERMINATED ON:  10/17/2024  AT:  10:39:57
+
+
+            SIMULATION SUMMARY                              STATUS                                        ACTION
+
+  Overall volume conservation                     Excellent                                         No action necessary
+  Channel volume conservation                     Excellent                                         No action necessary
+  Timestep decreases - numerical stability        Grid elements are slowing model                   Revise slowest cells in TIME.OUT file
+  Maximum floodplain velocities                   Reasonable                                        No action necessary
+  Maximum channel velocities                      Maximum velocity may be high > 10 fps             Review maximum velocity plots and VELTIMEC.OUT
+  Variation in n-values                           Reasonable n-value adjustment                     No action necessary
