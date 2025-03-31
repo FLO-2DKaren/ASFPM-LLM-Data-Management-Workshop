@@ -32,28 +32,32 @@ This command installs the packages from the Conda-Forge channel, which usually h
 ### Step 5: Install Visual Studio Code
 1. Download Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com).
 2. Follow the installation steps for your operating system.
+3. **Finish setup instrucions**
 
-### Step 6: Launch Jupyter Notebook
-1. Return to the Anaconda Navigator.
-2. Ensure your `workshop_env` is active.
-3. Click on **Jupyter Notebook** to launch it within your environment.
+### Step 6: Load the Project VS Code
+1. Run VS Code and use the File menu to Load the Project Folder. (ctrl-K-O)
+2. Click 01_GetStarted.ipynb to load the first notebook.
+3. Load Python Kernel.
 
-### Step 7: Get Started with ChatGPT
-1. Create an account at [chat.openai.com](https://chat.openai.com).
-2. Familiarize yourself with asking questions about Python code.
+![Kernal Setup](images/setup001.png)
 
-**You're ready!** Open the first notebook *(Notebook 01 - Python Basics.ipynb)* to begin.
+### Step 7: Get Started with an AI Chat tool.
+
+Any of these programs should work for this class. Create an account if necessary.  
+A Paid account will cost around $20 per month. (Yes, they are worth the cost.)
+
+1. **ChatGPT** – *by OpenAI*  
+   Widely used conversational AI with strong natural language understanding and generation.
+
+2. **Claude** – *by Anthropic*  
+   Designed with a focus on safety and helpfulness. Known for long-context understanding and creative writing.
+
+3. **Gemini** *by Google DeepMind*  
+   Integrated with Google services. Good for general queries, coding help, and web search-based answers.
+
+4. **CoPilot** *by Microsoft/OpenAI*  
+   Embedded in Windows, Office, and Edge
+
+**You're ready!** Open the first notebook *(Notebook 01_GetStarted.ipynb)* to begin.
 
 ---
-
-## Troubleshooting
-
-### Issue: Unable to launch Jupyter Notebook from Anaconda Navigator
-If clicking on Jupyter Notebook in Anaconda Navigator doesn't work:
-1. Open the **Anaconda Prompt** (found in your Start Menu on Windows).
-2. Type `jupyter notebook` and press Enter.
-
-### Issue: Jupyter Notebook not loading correctly in Microsoft Edge
-If you encounter issues using Microsoft Edge, try switching to Google Chrome:
-1. Copy the notebook URL from the address bar in Edge.
-2. Open **Google Chrome** and paste the URL there.
