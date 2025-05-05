@@ -1,5 +1,8 @@
 # ASFPM-LLM-Data-Management-Workshop
 
+Videos with Setup instructions.
+https://flo-2d.sharefile.com/d-s9a1d87e2d41549ec8793aba189c18405
+
 Installation notes from meetting:
 Install DB browser
 Install HEC-RAS 6.6
