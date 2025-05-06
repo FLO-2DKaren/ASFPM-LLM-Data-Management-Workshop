@@ -3,10 +3,6 @@
 Videos with Setup instructions.
 https://flo-2d.sharefile.com/d-s06c47ad1feb14b8ba2c8f584deb15ce2
 
-Installation notes from meetting:
-Install DB browser
-Install HEC-RAS 6.6
-
 ## Welcome to the Workshop!
 
 ### Step 1: Install Anaconda
@@ -49,7 +45,7 @@ This command installs the packages from the Conda-Forge channel, which usually h
 ### Step 7: Install Visual Studio Code
 1. Download Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com).
 2. Follow the installation steps for your operating system.
-3. **Finish setup instrucions**
+3. **Finish setup instructions**
 
 ### Step 8: Load the Project VS Code
 1. Run VS Code and use the File menu to Load the Project Folder. (ctrl-K-O)
