@@ -45,12 +45,13 @@ This command installs the packages from the Conda-Forge channel, which usually h
 ### Step 7: Install Visual Studio Code
 1. Download Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com).
 2. Follow the installation steps for your operating system.
-3. **Finish setup instructions**
+3. You may need to add Python Environments, Jupyter, and ipykernel extensions from Microsoft.
 
 ### Step 8: Load the Project VS Code
 1. Run VS Code and use the File menu to Load the Project Folder. (ctrl-K-O)
 2. Click 01_GetStarted.ipynb to load the first notebook.
 3. Load Python Kernel.
+
 
 ![Kernal Setup](images/setup001.png)
 
