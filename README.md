@@ -23,7 +23,7 @@ After creating your environment, you need to install the required packages:
 3. Install the necessary packages by running:
 
 ```bash
-   conda install pandas matplotlib h5py sqlite geopandas -c conda-forge
+   conda install pandas matplotlib h5py sqlite geopandas xarray -c conda-forge
 ```
 
 This command installs the packages from the Conda-Forge channel, which usually has up-to-date versions.
