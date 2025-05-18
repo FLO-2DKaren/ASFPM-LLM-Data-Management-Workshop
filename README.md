@@ -75,3 +75,11 @@ A Paid account will cost around $20 per month. (Yes, they are worth the cost.)
 **You're ready!** Open the first notebook *(Notebook 01_GetStarted.ipynb)* to begin.
 
 ---
+# Workshop Notes - Session Test 1
+
+## 01 Notes
+
+View Outline.
+Update GPT notes with new colors.
+
+03 hdfprocessing for gpt fix flo2d image path
