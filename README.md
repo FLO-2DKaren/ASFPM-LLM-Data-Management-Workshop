@@ -79,6 +79,11 @@ A Paid account will cost around $20 per month. (Yes, they are worth the cost.)
 
 ## 01 Notes
 
+Download LiDAR data from sharefile if the workshop data was downloaded from GitHub. Here is the link: https://flo-2d.sharefile.com/d-s493c6d9d9b4c450aa6e8b9d8daff6af1
+Paste it on Data/LiDAR.
+
+## 02 Notes
+
 View Outline.
 Update GPT notes with new colors.
 
