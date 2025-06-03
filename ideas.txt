@@ -1,0 +1,25 @@
+Value: Add a few extra slides to explain the value of the workshop for participants. Some of them did not get what the goal was. Maybe include a list of the files they will be using, what each file contains, from where the files come from.
+
+Installation process: even Karen bombarded people with emails, many attendees still came without the software installed. What can we do next time?
+N - Schedule 30-minute support sessions during the two weeks before the workshop to help participants complete the installation. Karen has done this before with some success.
+R - Find a way to pack a python environment.  
+K - **Important** One purpose of the class is to teach attendees how set up their own systems.  It does not  help people solve problems if we bring in perfectly functional software.
+K - I did schedule support sessions but nobody used them.  Maybe a support calender would be helpful.
+K - Anaconda was a bad choice for this becausse it is so slow.  
+K - We can bring an installation package like nsis for tough cases.
+
+Add a disclaimer: We will help you with the installation but If you don’t install the software before the training, you may not be able to follow the session properly.
+K - This probably won't work.  It was a very complex installation process.  I did all I could to encourage people to be ready.
+
+Provide a YouTube video showing the full installation process along with the step-by-step instructions. I think we did this. 
+K - The videos are linked to the Read Me.md
+
+Other ideas?
+
+ChatGPT: ran out of free tries, what should we do in that case? Could we use a different AI tool like GROK AI instead?
+K - Attendees were able to pay $20 to get more queries.  They were told that at the beginning of the class.  It's worth $20 dollars.
+
+R - I like our idea of adding a few slides to explain the value and goal of the workshop. 
+R - We could use a few files from a FLO-2D simulation to parse and save it to excel files. 
+R - I showed this to a few participants and they really liked it. A simple process that can show the potential of AI in the context of H&H modeling. 
+R - Installation process: Those ideas are really good, Noemi. I would also suggest  I can do that. 
